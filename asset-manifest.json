@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4d13ce8.css",
+    "main.js": "/static/js/main.58339bc9.js",
+    "static/js/787.a3091a23.chunk.js": "/static/js/787.a3091a23.chunk.js",
+    "static/media/atCSE.jpeg": "/static/media/atCSE.150cf20d6b9350a3b904.jpeg",
+    "index.html": "/index.html",
+    "main.e4d13ce8.css.map": "/static/css/main.e4d13ce8.css.map",
+    "main.58339bc9.js.map": "/static/js/main.58339bc9.js.map",
+    "787.a3091a23.chunk.js.map": "/static/js/787.a3091a23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d13ce8.css",
+    "static/js/main.58339bc9.js"
+  ]
+}
